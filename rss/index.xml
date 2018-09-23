@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Informations]]></title><description><![CDATA[Informations]]></description><link>https://fickse.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sun, 23 Sep 2018 00:26:43 GMT</lastBuildDate><atom:link href="https://fickse.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Decorrelation stretching in R]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Informations]]></title><description><![CDATA[Informations]]></description><link>https://fickse.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sun, 23 Sep 2018 00:30:14 GMT</lastBuildDate><atom:link href="https://fickse.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Decorrelation stretching in R]]></title><description><![CDATA[<div class="paragraph">
 <p>Decorrelation stretching is a useful technique for highlighting parts of images that might not otherwise be obvious. This is the technique used for creating false-color satellite images.</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="http://github.com/fickse/blog/images/vegas.jpg" alt="vegas-false-color">
-</div>
 </div>
 <div class="paragraph">
 <p><a href="http://dhanushkadangampola.blogspot.com/2015/02/decorrelation-stretching.html">This blog post</a> has a nice explanation of the mechanics behind the technique, written in matlab.</p>
