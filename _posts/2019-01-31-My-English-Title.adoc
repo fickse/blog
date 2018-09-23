@@ -1,5 +1,16 @@
-= Test post
+= Decorrelation stretching in R
 :hp-image: /covers/cover.png
 :published_at: 2019-01-31
-:hp-tags: HubPress, Blog, Open_Source,
+:hp-tags: HubPress, Blog, Open_Source, R, Images
 :hp-alt-title: My English Title
+
+Decorrelation stretching is a useful technique for highlighting parts of images that might not otherwise be obvious. This is the technique used for creating false-color satellite images. 
+
+image::http://github.com/fickse/blog/images/vegas.jpg[vegas-false-color]
+
+http://dhanushkadangampola.blogspot.com/2015/02/decorrelation-stretching.html[This blog post] has a nice explanation of the mechanics behind the technique, written in matlab. 
+
+Here is a https://gist.github.com/fickse/82faf625242f6843249774f1545d7958[gist] for a function that performs decorrelation stretching in R. It uses basically the same principles, except instead of scaling the pixel values to unit variance in PCA-space, it stretches them further, by using their frequency histogram. The result is a very vibrant stretch.
+
+image::before.jpg[before stretching]
+image::after.jpg[after stretching]
