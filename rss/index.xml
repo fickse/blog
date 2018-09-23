@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Informations]]></title><description><![CDATA[Informations]]></description><link>https://fickse.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sun, 23 Sep 2018 00:39:46 GMT</lastBuildDate><atom:link href="https://fickse.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Decorrelation stretching in R]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BLOG]]></title><description><![CDATA[BLOG]]></description><link>https://fickse.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sun, 23 Sep 2018 00:50:03 GMT</lastBuildDate><atom:link href="https://fickse.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Decorrelation stretching in R]]></title><description><![CDATA[<div class="paragraph">
 <p>Decorrelation stretching is a useful technique for highlighting parts of images that might not otherwise be obvious. This is the technique used for creating false-color satellite images.</p>
 </div>
 <div id="img-before" class="imageblock">
 <div class="content">
 <img src="https://fickse.github.io/blog/images/before.png" alt="before stretching" width="600" height="400">
 </div>
-<div class="title">Figure 1. Before stretching</div>
+<div class="title">Figure 1. Before stretching, a picture of Philadelphia</div>
 </div>
 <div id="img-after" class="imageblock">
 <div class="content">
